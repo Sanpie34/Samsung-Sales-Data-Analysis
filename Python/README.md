@@ -4,15 +4,15 @@
 This dataset consist of 15,500 synthetic sales transactions for various products across all regions, 52 countries, 555+ cities, from 2021 to 2024, making it sufficient for data analysis, such as taking business insights, uncover trends and patterns, hypothesis or A/B testing, machine learning, etc.
 
 # Exploratory Data Analysis
-### 1. 
-![EDA_1.png](Images/EDA_1.png)
+### 1. The Most Popular Series of Smartphone Among Gen Z in Asia
+![EDA_1.png](/Images/EDA_1.png)
 #### Insights
 - The Samsung Galaxy S series is the most popular Samsung lineup among Gen Z in Asia, indicating that this segment prefers the Galaxy S series over other Samsung series in the region.
 
 - The Samsung Galaxy Z series is the least preferred among Gen Z in Asia, suggesting that certain limitations or drawbacks may make the series less appealing to buyers.
 
-### 2. 
-![EDA_2](Images/EDA_2.png)
+### 2. Most Picked-Up Smartphone Color by Gen Z in Asia
+![EDA_2](/Images/EDA_2.png)
 #### Insights
 - Cream, Awesome Lime, Graph, and Lavender are the most popular colors chosen by Gen Z in Asia, suggesting that the company should prioritize offering these colors in future products.
 
@@ -20,16 +20,16 @@ This dataset consist of 15,500 synthetic sales transactions for various products
 
 - Gray and Graphite are the least preferred colors among Gen Z in Asia, suggesting that these colors are less attractive for this segment when choosing a smartphone.
 
-### 3. 
-![EDA_3](Images/EDA_3.png)
+### 3. What is the Most Prefered Purchase Channel Among Gen Z in Asia?
+![EDA_3](/Images/EDA_3.png)
 
 #### Insights
 - The plot indicates that Gen Z in Asia predominantly purchase smartphones through offline stores, as offline channels show higher values compared to online channels.
 
 - Online purchasing channels show lower preference, which may indicate lingering concerns regarding product authenticity, safety, or purchasing reliability.
 
-### 4. 
-![EDA_4](Images/EDA_4.png)
+### 4. The Most Preferred Payment Methods Among Gen Z in Asia
+![EDA_4](/Images/EDA_4.png)
 #### Insights
 - Gift cards dominate as the most used payment method, highlighting strong preference for convenience-driven and controlled spending options.
 
@@ -37,18 +37,18 @@ This dataset consist of 15,500 synthetic sales transactions for various products
 
 - Credit cards lag behind other methods, suggesting lower relevance or adoption among younger consumers in Asia.
 
-### 5. 
-![EDA_5_a](Images/EDA_5_a.png)
+### 5. Is Gen Z’s Shift Toward 5G Profitable for the Company?
+![EDA_5_a](/Images/EDA_5_a.png)
 
-![EDA_5_b](Images/EDA_5_b.png)
+![EDA_5_b](/Images/EDA_5_b.png)
 
 #### Insights
 - Gen Z in Asia tend to prefer smartphones equipped with 5G features, suggesting that this generation is more tech-savvy and forward-looking in adopting newer technologies.
 
 - 5G smartphones show a wider and higher revenue distribution compared to non-5G devices, with several high-value outliers, indicating that 5G models tend to generate greater revenue.
 
-### 6. 
-![EDA_6](Images/EDA_6.png)
+### 6. Most Popular 4G and 5G Smartphone Among Gen Z in Asia
+![EDA_6](/Images/EDA_6.png)
 
 #### Insights
 - For non-5G products, the Samsung Galaxy A series records the highest units sold compared to the M and S series. This may indicate that factors such as useful features and relatively lower prices make the Galaxy A series more attractive to Gen Z consumers in Asia.
@@ -57,8 +57,8 @@ This dataset consist of 15,500 synthetic sales transactions for various products
 
 - The Samsung Galaxy Z series does not offer non-5G variants, which may partly explain its relatively lower sales compared to other series.
 
-### 7. 
-![EDA_7](Images/EDA_7.png)
+### 7. Top Revenue by Smartphone Series Based on Preferred Storage Among Gen Z in Asia
+![EDA_7](/Images/EDA_7.png)
 
 #### Insights
 - Samsung Galaxy S and Z generate the highest revenue, indicating that these series either attract a larger number of customers and/or have higher unit prices, making them more suitable for mid-to-high spending consumers.
@@ -67,33 +67,34 @@ This dataset consist of 15,500 synthetic sales transactions for various products
 
 - Smartphones with the highest storage capacity tend to generate relatively low revenue, except for the Galaxy A series, suggesting that many Gen Z consumers in Asia may be less interested in high-storage variants due to factors such as higher prices, lower perceived value, or sufficient satisfaction with lower storage capacity.
 
-### 8.
-![EDA_8_a](Images/EDA_8_a.png)
-![EDA_8_b](Images/EDA_8_b.png)
+### 8. Distribution of Average Order Value (AOV) and Unit Prices for 5G Devices in Asia
+![EDA_8_a](/Images/EDA_8_a.png)
+
+![EDA_8_b](/Images/EDA_8_b.png)
 
 #### Insights
 - The highest sales and AOV frequencies are observed in the USD 100-450 and USD 650-1,200 price ranges, highlighting strong consumer demand for low and mid-range smartphones in Asia.
 
 - Premium smartphones priced between USD 1,500-1,900 exhibit significantly lower sales and AOV frequencies, indicating that demand for high-end devices is relatively limited.
 
-### 9.
-![EDA_9](Images/EDA_9.png)
+### 9. Yearly Revenue Trends for 5G Devices Among Gen Z in Asia
+![EDA_9](/Images/EDA_9.png)
 
 #### Insights
 - Revenue showed a strong increase from 2021 to 2022, reaching its peak in 2022, indicating a period of strong product performance and effective marketing.
 
 - Revenue declined slightly after 2022, though the decrease was not substantial, which may indicate several possible factors such as shifting consumer preferences toward competitors, longer smartphone replacement cycles, or less effective product launches and promotional strategies.
 
-### 10. 
-![EDA_10](Images/EDA_10.png)
+### 10. Average Order Value (AOV) Trend for 5G Smartphones Sold to Gen Z
+![EDA_10](/Images/EDA_10.png)
 
 #### Insights
 - AOV for 5G smartphones shows a fluctuating trend between 2021 and 2024, indicating periodic spikes in purchasing activity driven by product launches or shifts in consumer interest.
 
 - Significant AOV spikes are commonly observed at the beginning or end of quarters, potentially linked to product release schedules or promotional campaigns.
 
-### 11. 
-![EDA_11](Images/EDA_11.png)
+### 11. Revenue Trend of 5G Smartphone Series in 2021 Among Gen Z in Asia
+![EDA_11](/Images/EDA_11.png)
 
 #### Insights
 - Galaxy S recorded the highest revenue peak in April 2021, highlighting strong market performance at that time because this series offer more than its competitor, leads to shifting preference of Gen Z in Asia.
@@ -102,8 +103,8 @@ This dataset consist of 15,500 synthetic sales transactions for various products
 
 - Galaxy A and M series generate comparatively lower revenue, reflecting their positioning in the lower to mid-range market segment, also competitor offering more than this series at mid-range market.
 
-### 12. 
-![EDA_12](Images/EDA_12.png)
+### 12. Return Rate of Samsung 5G Smartphones in Asia
+![EDA_12](/Images/EDA_12.png)
 
 #### Insights
 - Samsung's return rates show a consistent increase from 2021 to 2024, which may indicate growing product issues or increasing customer dissatisfaction as Gen Z consumers develop higher expectations for smartphone performance and quality.
@@ -114,8 +115,8 @@ This dataset consist of 15,500 synthetic sales transactions for various products
 
 - Smartphones with 64 GB storage show the highest return rate, which may suggest that many Gen Z consumers require larger storage capacity, leading to higher return rates.
 
-### 13. 
-![EDA_13](Images/EDA_13.png)
+### 13. Do Sales Channel Affect Revenue?
+![EDA_13](/Images/EDA_13.png)
 
 #### Insights
 - Online channels appear to be an efficient revenue driver, generating strong revenue with relatively fewer transactions.
@@ -142,7 +143,7 @@ Mean Difference: 0.06305282424552017
 95% Confidence Interval : [-0.18838467388339186, 0.3144903223744322]
 Effect Size : 0.03165068052598687
 
-![HT_1](Images/HT_1.png)
+![HT_1](/Images/HT_1.png)
 
 #### Insights
 - There's no statistically significant difference between the low-discount and high-discount groups, suggesting that higher discounts do not appear to be associated with increased units sold for 5G products in Asia.
@@ -305,7 +306,7 @@ Mean Difference: 102.18314102564159
 Effect Size : 0.052708197072444556
 
 
-![HT_2](Images/HT_2.png)
+![HT_2](/Images/HT_2.png)
 
 #### Insights
 - Overall, there's no statistically significant difference in revenue between online and offline sale channels globally (p-value = 0.389 > 0.05).
@@ -325,9 +326,9 @@ While for the remaining regions:
 ## Regression
 ### Linear Regression
 ### Predict/Forecast Revenue
-![LI_R_1](Images/LI_R_1.png)
+![LI_R_1](/Images/LI_R_1.png)
 
-![LI_R_2](Images/LI_R_2.png)
+![LI_R_2](/Images/LI_R_2.png)
 #### Insights
 - The model shows strong performance in low-to-mid revenue ranges (≤ USD 6,500), where predictions closely follow the ideal line.
 
@@ -338,7 +339,7 @@ While for the remaining regions:
 - Visible clustering patterns in the scatter plot indicate that predictions are driven by discrete feature groupings, rather than continuous variation.
 
 
-![LI_R_3](Images/LI_R_3.png)
+![LI_R_3](/Images/LI_R_3.png)
 #### Insights
 - Positively correlated features (e.g., storage capacity, sales channel, and customer demographics) play a key role in driving revenue, highlighting potential areas for strategic focus.
 
@@ -348,7 +349,7 @@ While for the remaining regions:
 ## Classification
 ### Logistic Regression
 #### Return Prediction
-![LO_R_1](Images/LO_R_1.png)
+![LO_R_1](/Images/LO_R_1.png)
 
 #### Insights
 - The model is able to identify 66 return cases, showing that it has learned patterns related to product returns.
@@ -359,7 +360,7 @@ While for the remaining regions:
 
 - As a result, the precision for return prediction is very low (~16%), meaning most predicted returns are incorrect.
 
-![LO_R_2](Images/LO_R_2.png)
+![LO_R_2](/Images/LO_R_2.png)
 
 #### Insights
 - Higher return probability is associated with Galaxy Z purchases, 5G devices, online channels, and prior iOS users, indicating potential expectation gaps or product experience issues.
